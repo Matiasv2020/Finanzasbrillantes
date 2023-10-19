@@ -1,0 +1,4 @@
+[submodule "ruta/del/submodulo"]
+    path = "Propuestas presidenciales"
+    url =  "https://github.com/Matiasv2020/Propuestas-presidenciales.git (fetch)"
+"origin  https://github.com/Matiasv2020/Propuestas-presidenciales.git (push)"
